@@ -5,7 +5,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 project(AOC2017)
 
-
+add_subdirectory (day22)
 add_subdirectory (day23)
 add_subdirectory (day19)
 add_subdirectory (day18)
